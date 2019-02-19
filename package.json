@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "Netlify-test",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.12.2"
+  }
+}
